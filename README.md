@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white%22%3E" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white%22%3E" />
-<img src="https://img.shields.io/badge/SQL-Alchemy-red" />
+<img src="https://img.shields.io/badge/SQL-Alchemy-red?style=for-the-badge&logo=appveyor" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white%22/%3E" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -21,8 +21,8 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=JamarkG&theme=blue-green
-https://github-readme-stats.vercel.app/api/top-langs/?username=JamarkG&theme=blue-green
+<img src"https://github-readme-stats.vercel.app/api?username=JamarkG&theme=blue-green" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamarkG&theme=blue-green" />
 
 ---
 
