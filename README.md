@@ -8,10 +8,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=JamarkG&theme=blue-green" />
-
----
-
 - 🔭 I’m currently working on VendorHub, a website for discovering and requesting meetings with other businesses.
 - 🌱 I’m currently learning algorithims and Docker
 - 👯 I’m looking to collaborate on entrepreneurial ventures
@@ -20,5 +16,4 @@
 - 📫 How to reach me: linkedin.com/in/markgregory19
 
 
-<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
