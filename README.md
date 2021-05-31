@@ -8,7 +8,7 @@
 
 ---
 
-- 🔭 I’m currently working on VendorHub, a website for discovering and requesting meetings with other businesses.
+- 🔭 I’m currently working on VendorHub, a website for discovering other businesses and requesting meetings.
 - 🌱 I’m currently learning algorithims and Docker
 - 👯 I’m looking to collaborate on entrepreneurial ventures
 - 🤔 I’m looking for mentorship & employment opportunities
