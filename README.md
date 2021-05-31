@@ -16,4 +16,4 @@
 - 📫 How to reach me: <a href="https://linkedin.com/in/markgregory19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" /></a>
 
 
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+<a href="https://gorillafund.org/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></a>
