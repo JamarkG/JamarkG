@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on entrepreneurial ventures
 - 🤔 I’m looking for mentorship & employment opportunities
 - 💬 Ask me about your business idea
-- 📫 How to reach me: <a href="linkedin.com/in/markgregory19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/markgregory19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" /></a>
 
 
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
