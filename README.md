@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to Mark Gregory's GitHub!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25" height="25" />, welcome to Mark Gregory's GitHub!
 
 ---
 
