@@ -8,10 +8,11 @@
 
 ---
 
+- 💻 See my <a href="https://jamarkg.github.io/" target="_blank">portfolio</a>
 - 🔭 I’m currently working on <a href="https://vendorhub.herokuapp.com/">VendorHub</a>, a website for discovering other businesses and requesting meetings.
 - 🌱 I’m currently learning algorithims and Docker
-- 👯 I’m looking to collaborate on entrepreneurial ventures
-- 🤔 I’m looking for mentorship & employment opportunities
+- 👯 I’m looking to collaborate on side projects & entrepreneurial ventures
+- 🤔 I’m looking for mentorship & opportunities
 - 💬 Ask me about your business idea
 - 📫 How to reach me: <a href="https://linkedin.com/in/markgregory19" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" /></a>
 
