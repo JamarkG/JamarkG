@@ -8,7 +8,7 @@
 
 ---
 
-💻 &nbsp;See my <a href="https://jamarkg.github.io/" target="_blank">portfolio</a><br>
+💻 &nbsp;<a href="https://jamarkg.github.io/" target="_blank">Portfolio Site</a><br>
 🔭 &nbsp;I’m currently working on <a href="https://vendorhub.herokuapp.com/">VendorHub</a>, a website for discovering other businesses and requesting meetings.<br>
 🌱 &nbsp;I’m currently learning algorithims and Docker<br>
 👨‍💻 &nbsp;I’m looking to collaborate on side projects & entrepreneurial ventures<br>
